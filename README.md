@@ -1,6 +1,6 @@
 # Berkeley-CS-188-AI-Pacman
 
-## Project 1
+## Project 1: Search in Pacman
 Link: https://goo.gl/XAVtp7
 
 My Solution to:
